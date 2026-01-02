@@ -86,7 +86,7 @@ export default function Education() {
                     <div className="inline-block">
                       <div className="px-3 py-1 bg-green-100 dark:bg-green-900/30 rounded">
                         <span className="text-green-700 dark:text-green-400 text-sm font-medium">
-                          {index === 0 ? "First Class with Distinction" : "92% Score"}
+                          {index === 0 ? "CGPA: 8.36" : "80.61% Score"}
                         </span>
                       </div>
                     </div>

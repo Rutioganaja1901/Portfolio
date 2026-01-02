@@ -1,32 +1,11 @@
 export default function Experience() {
   const experiences = [
     {
-      year: "2008 - 2012",
-      title: "Master In Computer Science",
-      subtitle: "Studied At Cambridge University",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus. Donec auctor et urnaLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
+      year: "2025 - 2026",
+      title: "Evoqtech",
+      subtitle: "Full-stack developer",
+      description: "I’m a Full-Stack Developer specializing in scalable web and mobile applications. I work with React.js, Next.js, Node.js, NestJS, Python (Flask/FastAPI), and MongoDB/MySQL. I also build cross-platform mobile apps using React Native. I deploy production-ready solutions on AWS and GCP with a focus on performance, security, and clean code.",
       position: "left"
-    },
-    {
-      year: "2012 - 2014",
-      title: "UI/UX Designer",
-      subtitle: "Adobe Corporation",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus. Donec auctor et urnaLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
-      position: "right"
-    },
-    {
-      year: "2014 - 2016",
-      title: "Full Stack Developer",
-      subtitle: "Google Technology",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus. Donec auctor et urnaLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
-      position: "left"
-    },
-    {
-      year: "2016 - Present",
-      title: "Senior Software Engineer",
-      subtitle: "Tech Solutions Inc.",
-      description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lacinia magna vel molestie faucibus. Donec auctor et urnaLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.",
-      position: "right"
     }
   ]
 
